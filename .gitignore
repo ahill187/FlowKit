@@ -2,6 +2,8 @@
 .idea
 scratch/
 scratch_data/
+env/
+venv/
 *.png
 *.html
 *.xml
